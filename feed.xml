@@ -10,7 +10,7 @@
         <offers>
             <offer id="001" available="true">
                 <name>Cursor: с нуля к ИТ-системе</name>
-                <url>https://cursor.neyro.mba?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/cursor?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
                 <price>30000</price>
                 <oldprice>30000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -36,7 +36,7 @@
             </offer>
             <offer id="002" available="true">
                 <name>ИИ-дашборды на стероидах. Прощай, Excel! (тариф Стандарт)</name>
-                <url>https://neyro.mba/intensiv-dash-ai?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/intensiv-dash-ai-green?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
                 <price>30000</price>
                 <oldprice>30000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -245,7 +245,7 @@
             </offer>
             <offer id="007" available="true">
                 <name>Архитектор ИИ-агентов (тариф Базовый «Я сам»)</name>
-                <url>https://neyro.mba/ai-agents-zz?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/ai-agents-zw?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
                 <price>19900</price>
                 <oldprice>19900</oldprice>
                 <currencyId>RUB</currencyId>
@@ -477,7 +477,7 @@
             </offer>
             <offer id="021" available="true">
                 <name>Дашборды за минуты с ИИ</name>
-                <url>https://neyro.mba/fast-ai-dashboard-lr?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/fast-dashboards-ai?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
                 <price>4970</price>
                 <oldprice>9940</oldprice>
                 <currencyId>RUB</currencyId>
