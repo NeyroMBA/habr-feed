@@ -8,35 +8,10 @@
             <currency id="RUB" rate="1"/>
         </currencies>
         <offers>
-            <offer id="001" available="true">
-                <name>Cursor: с нуля к ИТ-системе</name>
-                <url>https://neyro.mba/cursor?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>30000</price>
-                <oldprice>30000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Программирование и IT</specialization>
-                <param name="Дата начала">По факту набора потока</param>
-                <duration unit="week">6</duration>
-                <skills>
-                    <skill id="1">LLM</skill>
-                    <skill id="2">Vibe-кодинг</skill>
-                    <skill id="3">IDE</skill>
-                </skills>
-                <description>4-недельный курс по созданию бизнес-приложений в Cursor IDE без навыков программирования. Научитесь строить учётные системы, аналитику, LMS и CRM — на собственном сервере, доступным языком на понятных кейсах. Автоматизируйте бизнес-процессы с помощью ИИ и разворачивайте готовые решения без технических знаний.</description>
-                <param name="Формат занятий">online</param>
-                <target>Освоить с нуля</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Нет</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Да</param>
-                <param name="Индивидуальный формат обучения">Нет</param>
-                <param name="Групповой формат обучения">Да</param>
-            </offer>
             <offer id="002" available="true">
                 <name>ИИ-дашборды на стероидах. Прощай, Excel! (тариф Стандарт)</name>
-                <url>https://neyro.mba/intensiv-dash-ai-green?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/intensiv-dash-ai?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606343/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%81_%D0%BD%D0%B5%D0%B8%CC%86%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8_%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%B8%CC%86_%D0%AD%D0%BA%D1%81%D0%B5%D0%BB%D1%8C_juojyp.png</picture>
                 <price>30000</price>
                 <oldprice>30000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -63,6 +38,7 @@
             <offer id="013" available="true">
                 <name>ИИ-дашборды на стероидах. Прощай, Excel! (тариф Бизнес)</name>
                 <url>https://neyro.mba/intensiv-dash-ai?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606343/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0_%D1%81_%D0%BD%D0%B5%D0%B8%CC%86%D1%80%D0%BE%D1%81%D0%B5%D1%82%D1%8F%D0%BC%D0%B8_%D0%9F%D1%80%D0%BE%D1%89%D0%B0%D0%B8%CC%86_%D0%AD%D0%BA%D1%81%D0%B5%D0%BB%D1%8C_juojyp.png</picture>
                 <price>60000</price>
                 <oldprice>60000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -85,6 +61,249 @@
                 <param name="Наличие куратора">Да</param>
                 <param name="Индивидуальный формат обучения">Нет</param>
                 <param name="Групповой формат обучения">Да</param>
+            </offer>
+            <offer id="008" available="true">
+                <name>Бизнес-дашборды в Excel (тариф Все сам)</name>
+                <url>https://alexkolokolov.com/ru/study/excel-dashboard?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <price>20000</price>
+                <oldprice>20000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">2</duration>
+                <skills>
+                    <skill id="1">Дашборд</skill>
+                    <skill id="2">Визуализация</skill>
+                    <skill id="3">BI аналитика</skill>
+                </skills>
+                <description>Научитесь создавать интерактивные дашборды и профессиональные отчёты в Excel с нуля. Курс охватывает подготовку данных, сводные таблицы, правила визуализации, нестандартные диаграммы (водопад, торнадо, bullet-chart) и интеграцию с нейросетями. 25 практических работ, кейсы для портфолио.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Да</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Нет</param>
+                <param name="Индивидуальный формат обучения">Да</param>
+                <param name="Групповой формат обучения">Нет</param>
+            </offer>
+            <offer id="009" available="true">
+                <name>Power BI с нуля до профи (тариф Все сам)</name>
+                <url>https://alexkolokolov.com/ru/study/dashboard_power_bi?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606344/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B_%D0%B2_Power_BI_q4pfqk.png</picture>
+                <price>35000</price>
+                <oldprice>35000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Power BI</skill>
+                    <skill id="2">Дашборд</skill>
+                    <skill id="3">Визуализация</skill>
+                </skills>
+                <description>Полное погружение в Power BI — от основ до продвинутых техник визуализации данных. Создавайте интерактивные отчёты, осваивайте DAX и Power Query. Интерактивные отчёты за 3 часа уже в начале обучения.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Да</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Нет</param>
+                <param name="Индивидуальный формат обучения">Да</param>
+                <param name="Групповой формат обучения">Нет</param>
+            </offer>
+            <offer id="018" available="true">
+                <name>Power BI с нуля до профи (тариф С куратором)</name>
+                <url>https://alexkolokolov.com/ru/study/dashboard_power_bi?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606344/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B_%D0%B2_Power_BI_q4pfqk.png</picture>
+                <price>65000</price>
+                <oldprice>65000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Power BI</skill>
+                    <skill id="2">Дашборд</skill>
+                    <skill id="3">Визуализация</skill>
+                </skills>
+                <description>Полное погружение в Power BI — от основ до продвинутых техник визуализации данных. Тариф с сопровождением куратора: разбор ваших отчётов, персональная обратная связь по дашбордам.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Да</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Да</param>
+                <param name="Индивидуальный формат обучения">Да</param>
+                <param name="Групповой формат обучения">Нет</param>
+            </offer>
+            <offer id="004" available="true">
+                <name>Профессия Нейро-Аналитик</name>
+                <url>https://neyro.mba/data-analyst-profession?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606341/%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F_hf1nle.png</picture>
+                <price>120000</price>
+                <oldprice>120000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">По факту набора потока</param>
+                <duration unit="month">10</duration>
+                <skills>
+                    <skill id="1">Data Science</skill>
+                    <skill id="2">Дашборд</skill>
+                    <skill id="3">Нейронные сети</skill>
+                    <skill id="4">T-SQL</skill>
+                </skills>
+                <description>Флагманская программа обучения профессии аналитика данных с нуля. Научитесь анализировать данные с помощью сервисов аналитики и BI-инструментов, освоите DAX, Power Query и SQL. 2 диплома установленного образца о профессиональной переподготовке. Сопровождение куратора, онлайн-встречи с экспертами, помощь в трудоустройстве.</description>
+                <param name="Формат занятий">online</param>
+                <target>Переподготовка</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Да</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Нет</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Да</param>
+                <param name="Индивидуальный формат обучения">Нет</param>
+                <param name="Групповой формат обучения">Да</param>
+            </offer>
+            <offer id="007" available="true">
+                <name>Архитектор ИИ-агентов (тариф Базовый «Я сам»)</name>
+                <url>https://neyro.mba/ai-agents-zz?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606342/AI-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B_kyglur.png</picture>
+                <price>19900</price>
+                <oldprice>19900</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Нейронные сети</skill>
+                    <skill id="2">Искусственный интеллект</skill>
+                    <skill id="3">ИИ-агенты</skill>
+                </skills>
+                <description>Соберите личную цифровую команду за 4 недели на Суверенном Стеке: DeepSeek и n8n на собственном сервере. Внедрите систему Второй мозг, агента-парсера и умного консультанта с веб-интерфейсом. Готовые JSON-Blueprint чертежи агентов, которые работают 24/7.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Нет</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Нет</param>
+                <param name="Индивидуальный формат обучения">Нет</param>
+                <param name="Групповой формат обучения">Да</param>
+            </offer>
+            <offer id="016" available="true">
+                <name>Архитектор ИИ-агентов (тариф Профи «Архитектор»)</name>
+                <url>https://neyro.mba/ai-agents-zz?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606342/AI-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D1%8B_kyglur.png</picture>
+                <price>39900</price>
+                <oldprice>39900</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">По факту набора потока</param>
+                <duration unit="week">4</duration>
+                <skills>
+                    <skill id="1">Нейронные сети</skill>
+                    <skill id="2">Искусственный интеллект</skill>
+                    <skill id="3">ИИ-агенты</skill>
+                </skills>
+                <description>Расширенная версия курса «Архитектор ИИ-агентов» с сопровождением куратора: соберите личную цифровую команду за 4 недели на Суверенном Стеке, внедрите систему Второй мозг и умного консультанта с веб-интерфейсом, получите разбор и обратную связь по вашим агентам.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Нет</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Да</param>
+                <param name="Индивидуальный формат обучения">Нет</param>
+                <param name="Групповой формат обучения">Да</param>
+            </offer>
+            <offer id="001" available="true">
+                <name>Cursor: с нуля к ИТ-системе</name>
+                <url>https://cursor.neyro.mba?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606337/Cursor_c5rh7i.png</picture>
+                <price>30000</price>
+                <oldprice>30000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Программирование и IT</specialization>
+                <param name="Дата начала">По факту набора потока</param>
+                <duration unit="week">6</duration>
+                <skills>
+                    <skill id="1">LLM</skill>
+                    <skill id="2">Vibe-кодинг</skill>
+                    <skill id="3">IDE</skill>
+                </skills>
+                <description>4-недельный курс по созданию бизнес-приложений в Cursor IDE без навыков программирования. Научитесь строить учётные системы, аналитику, LMS и CRM — на собственном сервере, доступным языком на понятных кейсах. Автоматизируйте бизнес-процессы с помощью ИИ и разворачивайте готовые решения без технических знаний.</description>
+                <param name="Формат занятий">online</param>
+                <target>Освоить с нуля</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Нет</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Да</param>
+                <param name="Индивидуальный формат обучения">Нет</param>
+                <param name="Групповой формат обучения">Да</param>
+            </offer>
+            <offer id="010" available="true">
+                <name>Обработка данных DAX и Power Query (тариф Все сам)</name>
+                <url>https://alexkolokolov.com/ru/study/dax?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606340/Dax_%D0%B8_Power_Query_lcqfkz.png</picture>
+                <price>20000</price>
+                <oldprice>20000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">3</duration>
+                <skills>
+                    <skill id="1">Power Query</skill>
+                    <skill id="2">Power BI</skill>
+                    <skill id="3">DAX</skill>
+                </skills>
+                <description>Обработка данных в несколько кликов, работа с моделью данных, формулы и функции, которые упрощают жизнь аналитика. Освойте DAX и Power Query для трансформации и анализа данных в Excel и Power BI.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Да</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Нет</param>
+                <param name="Индивидуальный формат обучения">Да</param>
+                <param name="Групповой формат обучения">Нет</param>
+            </offer>
+            <offer id="019" available="true">
+                <name>Обработка данных DAX и Power Query (тариф С куратором)</name>
+                <url>https://alexkolokolov.com/ru/study/dax?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606340/Dax_%D0%B8_Power_Query_lcqfkz.png</picture>
+                <price>40000</price>
+                <oldprice>40000</oldprice>
+                <currencyId>RUB</currencyId>
+                <specialization>Аналитика и Data Science</specialization>
+                <param name="Дата начала">В любой момент</param>
+                <duration unit="week">3</duration>
+                <skills>
+                    <skill id="1">Power Query</skill>
+                    <skill id="2">Power BI</skill>
+                    <skill id="3">DAX</skill>
+                </skills>
+                <description>Обработка данных в несколько кликов, работа с моделью данных, формулы и функции, которые упрощают жизнь аналитика. Тариф с сопровождением куратора: разбор ваших рабочих файлов и обратная связь.</description>
+                <param name="Формат занятий">online</param>
+                <target>Развить навыки</target>
+                <param name="Выдаётся сертификат">Да</param>
+                <param name="Помощь с трудоустройством">Нет</param>
+                <type>Курс</type>
+                <param name="Бесплатная часть">Да</param>
+                <param name="Наличие ментора">Нет</param>
+                <param name="Наличие куратора">Да</param>
+                <param name="Индивидуальный формат обучения">Да</param>
+                <param name="Групповой формат обучения">Нет</param>
             </offer>
             <offer id="003" available="true">
                 <name>Нейросети для бизнеса и карьеры (тариф Для себя)</name>
@@ -138,33 +357,6 @@
                 <param name="Индивидуальный формат обучения">Нет</param>
                 <param name="Групповой формат обучения">Да</param>
             </offer>
-            <offer id="004" available="true">
-                <name>Профессия Нейро-Аналитик</name>
-                <url>https://neyro.mba/data-analyst-profession?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>120000</price>
-                <oldprice>120000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">По факту набора потока</param>
-                <duration unit="month">10</duration>
-                <skills>
-                    <skill id="1">Data Science</skill>
-                    <skill id="2">Дашборд</skill>
-                    <skill id="3">Нейронные сети</skill>
-                    <skill id="4">T-SQL</skill>
-                </skills>
-                <description>Флагманская программа обучения профессии аналитика данных с нуля. Научитесь анализировать данные с помощью сервисов аналитики и BI-инструментов, освоите DAX, Power Query и SQL. 2 диплома установленного образца о профессиональной переподготовке. Сопровождение куратора, онлайн-встречи с экспертами, помощь в трудоустройстве.</description>
-                <param name="Формат занятий">online</param>
-                <target>Переподготовка</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Да</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Нет</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Да</param>
-                <param name="Индивидуальный формат обучения">Нет</param>
-                <param name="Групповой формат обучения">Да</param>
-            </offer>
             <offer id="005" available="true">
                 <name>Акселератор Нейро МВА (МОСТ)</name>
                 <url>https://ai.neyro.mba/accelerator?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
@@ -194,6 +386,7 @@
             <offer id="006" available="true">
                 <name>AI+Python для менеджера (тариф Все сам)</name>
                 <url>https://neyro.mba/pyhton_manager-aa?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606336/Python_dqjydb.png</picture>
                 <price>30000</price>
                 <oldprice>30000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -220,6 +413,7 @@
             <offer id="015" available="true">
                 <name>AI+Python для менеджера (тариф С куратором)</name>
                 <url>https://neyro.mba/pyhton_manager-aa?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606336/Python_dqjydb.png</picture>
                 <price>60000</price>
                 <oldprice>60000</oldprice>
                 <currencyId>RUB</currencyId>
@@ -242,188 +436,6 @@
                 <param name="Наличие куратора">Да</param>
                 <param name="Индивидуальный формат обучения">Нет</param>
                 <param name="Групповой формат обучения">Да</param>
-            </offer>
-            <offer id="007" available="true">
-                <name>Архитектор ИИ-агентов (тариф Базовый «Я сам»)</name>
-                <url>https://neyro.mba/ai-agents-zw?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>19900</price>
-                <oldprice>19900</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">4</duration>
-                <skills>
-                    <skill id="1">Нейронные сети</skill>
-                    <skill id="2">Искусственный интеллект</skill>
-                    <skill id="3">ИИ-агенты</skill>
-                </skills>
-                <description>Соберите личную цифровую команду за 4 недели на Суверенном Стеке: DeepSeek и n8n на собственном сервере. Внедрите систему Второй мозг, агента-парсера и умного консультанта с веб-интерфейсом. Готовые JSON-Blueprint чертежи агентов, которые работают 24/7.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Нет</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Нет</param>
-                <param name="Индивидуальный формат обучения">Нет</param>
-                <param name="Групповой формат обучения">Да</param>
-            </offer>
-            <offer id="016" available="true">
-                <name>Архитектор ИИ-агентов (тариф Профи «Архитектор»)</name>
-                <url>https://neyro.mba/ai-agents-zz?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>39900</price>
-                <oldprice>39900</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">По факту набора потока</param>
-                <duration unit="week">4</duration>
-                <skills>
-                    <skill id="1">Нейронные сети</skill>
-                    <skill id="2">Искусственный интеллект</skill>
-                    <skill id="3">ИИ-агенты</skill>
-                </skills>
-                <description>Расширенная версия курса «Архитектор ИИ-агентов» с сопровождением куратора: соберите личную цифровую команду за 4 недели на Суверенном Стеке, внедрите систему Второй мозг и умного консультанта с веб-интерфейсом, получите разбор и обратную связь по вашим агентам.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Нет</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Да</param>
-                <param name="Индивидуальный формат обучения">Нет</param>
-                <param name="Групповой формат обучения">Да</param>
-            </offer>
-            <offer id="008" available="true">
-                <name>Бизнес-дашборды в Excel (тариф Все сам)</name>
-                <url>https://alexkolokolov.com/ru/study/excel-dashboard?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>20000</price>
-                <oldprice>20000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">2</duration>
-                <skills>
-                    <skill id="1">Дашборд</skill>
-                    <skill id="2">Визуализация</skill>
-                    <skill id="3">BI аналитика</skill>
-                </skills>
-                <description>Научитесь создавать интерактивные дашборды и профессиональные отчёты в Excel с нуля. Курс охватывает подготовку данных, сводные таблицы, правила визуализации, нестандартные диаграммы (водопад, торнадо, bullet-chart) и интеграцию с нейросетями. 25 практических работ, кейсы для портфолио.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Да</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Нет</param>
-                <param name="Индивидуальный формат обучения">Да</param>
-                <param name="Групповой формат обучения">Нет</param>
-            </offer>
-            <offer id="009" available="true">
-                <name>Power BI с нуля до профи (тариф Все сам)</name>
-                <url>https://alexkolokolov.com/ru/study/dashboard_power_bi?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>35000</price>
-                <oldprice>35000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">4</duration>
-                <skills>
-                    <skill id="1">Power BI</skill>
-                    <skill id="2">Дашборд</skill>
-                    <skill id="3">Визуализация</skill>
-                </skills>
-                <description>Полное погружение в Power BI — от основ до продвинутых техник визуализации данных. Создавайте интерактивные отчёты, осваивайте DAX и Power Query. Интерактивные отчёты за 3 часа уже в начале обучения.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Да</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Нет</param>
-                <param name="Индивидуальный формат обучения">Да</param>
-                <param name="Групповой формат обучения">Нет</param>
-            </offer>
-            <offer id="018" available="true">
-                <name>Power BI с нуля до профи (тариф С куратором)</name>
-                <url>https://alexkolokolov.com/ru/study/dashboard_power_bi?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>65000</price>
-                <oldprice>65000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">4</duration>
-                <skills>
-                    <skill id="1">Power BI</skill>
-                    <skill id="2">Дашборд</skill>
-                    <skill id="3">Визуализация</skill>
-                </skills>
-                <description>Полное погружение в Power BI — от основ до продвинутых техник визуализации данных. Тариф с сопровождением куратора: разбор ваших отчётов, персональная обратная связь по дашбордам.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Да</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Да</param>
-                <param name="Индивидуальный формат обучения">Да</param>
-                <param name="Групповой формат обучения">Нет</param>
-            </offer>
-            <offer id="010" available="true">
-                <name>Обработка данных DAX и Power Query (тариф Все сам)</name>
-                <url>https://alexkolokolov.com/ru/study/dax?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>20000</price>
-                <oldprice>20000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">3</duration>
-                <skills>
-                    <skill id="1">Power Query</skill>
-                    <skill id="2">Power BI</skill>
-                    <skill id="3">DAX</skill>
-                </skills>
-                <description>Обработка данных в несколько кликов, работа с моделью данных, формулы и функции, которые упрощают жизнь аналитика. Освойте DAX и Power Query для трансформации и анализа данных в Excel и Power BI.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Да</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Нет</param>
-                <param name="Индивидуальный формат обучения">Да</param>
-                <param name="Групповой формат обучения">Нет</param>
-            </offer>
-            <offer id="019" available="true">
-                <name>Обработка данных DAX и Power Query (тариф С куратором)</name>
-                <url>https://alexkolokolov.com/ru/study/dax?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
-                <price>40000</price>
-                <oldprice>40000</oldprice>
-                <currencyId>RUB</currencyId>
-                <specialization>Аналитика и Data Science</specialization>
-                <param name="Дата начала">В любой момент</param>
-                <duration unit="week">3</duration>
-                <skills>
-                    <skill id="1">Power Query</skill>
-                    <skill id="2">Power BI</skill>
-                    <skill id="3">DAX</skill>
-                </skills>
-                <description>Обработка данных в несколько кликов, работа с моделью данных, формулы и функции, которые упрощают жизнь аналитика. Тариф с сопровождением куратора: разбор ваших рабочих файлов и обратная связь.</description>
-                <param name="Формат занятий">online</param>
-                <target>Развить навыки</target>
-                <param name="Выдаётся сертификат">Да</param>
-                <param name="Помощь с трудоустройством">Нет</param>
-                <type>Курс</type>
-                <param name="Бесплатная часть">Да</param>
-                <param name="Наличие ментора">Нет</param>
-                <param name="Наличие куратора">Да</param>
-                <param name="Индивидуальный формат обучения">Да</param>
-                <param name="Групповой формат обучения">Нет</param>
             </offer>
             <offer id="012" available="true">
                 <name>Карты метрик (тариф Стандарт)</name>
@@ -477,7 +489,8 @@
             </offer>
             <offer id="021" available="true">
                 <name>Дашборды за минуты с ИИ</name>
-                <url>https://neyro.mba/fast-dashboards-ai?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <url>https://neyro.mba/fast-ai-dashboard-lr?utm_source=habr&amp;utm_medium=feed&amp;utm_campaign=courses</url>
+                <picture>https://res.cloudinary.com/dizir9w0d/image/upload/v1786606339/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B_%D0%B2_Excel_dix3nt.png</picture>
                 <price>4970</price>
                 <oldprice>9940</oldprice>
                 <currencyId>RUB</currencyId>
